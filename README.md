@@ -13,3 +13,5 @@ Sou software quality analyst e pretendo me tornar desenvolvedora Full Stack :nec
 | 
 [![Gmail Badge](https://img.shields.io/badge/-camilla.93marques@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilla.93marques@gmail.com)](mailto:camilla.93marques@gmail.com)
 
+![](https://github.com/Camilla-Marques/Camilla-Marques/blob/master/banner.png)
+
