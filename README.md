@@ -1,16 +1,15 @@
-### Hi there 👋
+# Camilla Marques
 
-<!--
-**Camilla-Marques/Camilla-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou super curiosa e louca por programação, AMO resolver problemas utilizando tecnologia.
 
-Here are some ideas to get you started:
+Sou software quality analyst e pretendo me tornar desenvolvedora Full Stack :neckbeard:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢  &nbsp; Estou trabalhando na seguradora **Allianz Brasil**
+ <br/> :computer: &nbsp; Buscando colaborar com projetos em Front-end usando JavaScript e Back-end usando Java
+ <br/> 🎯 &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox, testes automatizados com Selenium Webdriver+Java e testes de integração com Postman
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games estilo Stealth e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CamillaMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camillacmarques/)](https://www.linkedin.com/in/camillacmarques/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-camilla.93marques@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilla.93marques@gmail.com)](mailto:camilla.93marques@gmail.com)
+
