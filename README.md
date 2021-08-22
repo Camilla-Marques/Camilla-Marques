@@ -3,9 +3,9 @@
 ## Olá pessoal 👋
 Sou super curiosa e louca por programação, AMO resolver problemas utilizando tecnologia.
 
-Sou software quality analyst e pretendo me tornar desenvolvedora Full Stack :neckbeard:
+Sou software business analyst e pretendo me tornar desenvolvedora :neckbeard:
 
-🏢  &nbsp; Estou trabalhando na seguradora **Allianz Brasil**
+🏢  &nbsp; Estou trabalhando na seguradora **eBaoTech Corporation**
  <br/> :computer: &nbsp; Buscando colaborar com projetos em Front-end e Back-end usando Java, Java Script, HTML, CSS e afins
  <br/> 🎯 &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox, testes automatizados com Selenium Webdriver+Java e testes de integração com Postman
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games estilo Stealth e seriados no Netflix
