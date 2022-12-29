@@ -14,3 +14,6 @@ Sou software business analyst e pretendo me tornar desenvolvedora :neckbeard:
 [![Gmail Badge](https://img.shields.io/badge/-camilla.93marques@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilla.93marques@gmail.com)](mailto:camilla.93marques@gmail.com)
 
 ![CamillaMarques github stats](https://github-readme-stats.vercel.app/api?username=Camilla-Marques&show_icons=true&theme=tokyonight)
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilla-Marques&layout=compact&theme=dracula)
+
