@@ -1,7 +1,7 @@
 # Camilla Marques
 
 ## Olá pessoal 👋
-Sou super curiosa e louca por programação, AMO resolver problemas utilizando tecnologia.
+Sou super curiosa e AMO resolver problemas utilizando tecnologia.
 
 Sou software business analyst e pretendo me tornar desenvolvedora :neckbeard:
 
