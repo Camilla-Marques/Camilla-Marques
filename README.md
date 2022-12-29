@@ -1,6 +1,6 @@
 # Camilla Marques
 
-## Olá pessoal 👋
+## Hello Stranger 👋
 Sou super curiosa e AMO resolver problemas utilizando tecnologia.
 
 Sou software business analyst e pretendo me tornar desenvolvedora :neckbeard:
