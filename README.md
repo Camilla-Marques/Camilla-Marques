@@ -1,6 +1,6 @@
-<h1 align="center"> Hello Stranger :vulcan_salute:	</h1>
+<h1 align="center"> Hello Stranger :vulcan_salute:	
 
-<h2 align="center"> Meu nome é Camilla Marques :woman_technologist: </h2>
+Meu nome é Camilla Marques :woman_technologist: </h1>
 
 <h1 align="center">
   
